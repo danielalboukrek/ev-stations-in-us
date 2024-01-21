@@ -29,6 +29,9 @@ Utilized SQL queries to explore the dataset and answer key questions, such as:
 - What are the most popular charging networks?
 - Where are most stations located?
 
+## Data Visualization
+Created a [Tableau dashboard](https://public.tableau.com/app/profile/daniel.alboukrek/viz/ElectricVehicleChargingStationsinUS/EVChargingStations) that visualized and surfaced key insights derived from performing exploratory data analysis.
+
 ## Conclusions
 1. California contains the most amount of stations and over four times as many stations as the state with the second-highest number of stations, New York.
 2. The majority of stations are located in hotels or car dealerships.
