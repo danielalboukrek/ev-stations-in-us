@@ -35,7 +35,7 @@ Created a [Tableau dashboard](https://public.tableau.com/app/profile/daniel.albo
 ## Conclusions
 1. California contains the most amount of stations and over four times as many stations as the state with the second-highest number of stations, New York.
 2. The majority of stations are located in hotels or car dealerships.
-3. Following the passage of the Bipartisan Infrastructure Law in 2021, the number of stations supporting the Tesla charging standard (NACS) has increased considerably, though most new stations that are opened still use the J1772 charging standard.
+3. The number of stations supporting the Tesla charging standard (NACS) has increased considerably in recent years, though most new stations that are opened still use the J1772 charging standard. Interestingly, the passage of the Bipartisan Infrastructure Law in 2021 may have contributed to the growth in stations using the Tesla charging standard, though a causal relationship cannot be inferred from this data.
 
 ## Limitations
 1. Different charger connectors would be more prevalent in other regions of the world, and so the J1772 connector is not as prevalent outside of North America. A future direction would be to expand the dataset to include other countries and compare which connectors are most prevalent by region.
