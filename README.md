@@ -29,7 +29,7 @@ Utilized SQL queries to explore the dataset and answer key questions, such as:
 ![station locations](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/db07f308-8a16-4ec2-8e89-644b03ba47d7) <br>
 ![station locations output](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/77f0d68f-d193-4c30-b80b-ad7ea15fd3e9)
 
-- How many restriced (versus non-restricted) charging stations have been opened per year, sorted by connector type? <br>
+- How many restriced (versus non-restricted) charging stations have been opened per year, for each of the most popular connector types? <br>
 ![num stations](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/8957db73-598c-4340-8002-aef00c418fca) <br>
 ![num stations output](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/de38f6f4-aa47-486f-9b91-ea5147ad1f43)
 
