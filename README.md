@@ -26,7 +26,7 @@ Dataset relating all US zip codes to their respective states: https://www.census
 Utilized SQL queries to explore the dataset and answer key questions, such as:
 
 - Where are most stations located? <br>
-![station locations](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/db07f308-8a16-4ec2-8e89-644b03ba47d7) <br>
+![FacTypeCounts](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/27b4d568-fc89-46ab-b6d3-2a73688eb4d8) <br>
 ![station locations output](https://github.com/danielalboukrek/ev-stations-in-us/assets/76789903/77f0d68f-d193-4c30-b80b-ad7ea15fd3e9)
 
 - How many restriced (versus non-restricted) charging stations have been opened per year, for each of the most popular connector types? <br>
